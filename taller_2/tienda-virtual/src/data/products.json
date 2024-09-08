@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Anillo",
+    "description": "Anillo de oro de 18 quilates con un diseño único y elegante ",
+    "precio": 100.000,
+    "image": "/img/anillo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Conjunto de accesorios",
+    "description": "Conjunto de accesorio precioso de color rojo intenso, perfectos para cualquier ocasión",
+    "precio": 80.000,
+    "image": "/img/conjunto.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Reloj",
+    "description": "Reloj con correa de piel de lujo, ideal para los amantes de la moda y el estilo.",
+    "price": 95.000,
+    "image": "/img/reloj_dama.webp" 
+  },
+  {
+    "id": 4,
+    "name": "Collar Sencillo",
+    "description": "Collar Sencillo con un diseño clásico y atemporal.",
+    "price": 65.000,
+    "image": "/img/collar.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pinzas para el pelo",
+    "description": "Pinzas para el pelo de diseño único y elegante, perfectas para cualquier ocasion.",
+    "price": 30.000,
+    "image": "/img/pinzas.jpg"
+  }
+]
