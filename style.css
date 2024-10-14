@@ -1,0 +1,42 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: #202733;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.advice-container {
+    background-color: #313A48;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+#advice-id {
+    color: #52ffa8;
+    font-size: 0.8rem;
+    letter-spacing: 1.5px;
+}
+
+#advice-text {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+#dice-button {
+    background-color: #52ffa8;
+    border: none;
+    padding: 1rem;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+#dice-button:hover {
+    transform: scale(1.1);
+}
